@@ -10,7 +10,11 @@
   
 </div>
 
-#### [Palette Studio CRUD App](https://github.com/sannafis/PaletteStudio/tree/master "Go to Repository") | Personal Project - WIP
+#### [Palette Studio](https://github.com/sannafis/PaletteStudio/tree/master "Go to Repository") | Personal Project - WIP
+
+Using ASP.NET Core\
+CRUD app for editing colour palettes that comply with WCAG accessibility standards
+
   - [Web Client Repo](https://github.com/sannafis/PaletteStudio/tree/master/PaletteStudioClient "View Web Client in Repository")
   - Web Client Website (Coming Soon...)
 
