@@ -36,5 +36,3 @@ CRUD app for editing colour palettes that comply with WCAG accessibility standar
   <img src="https://github.com/user-attachments/assets/f92ac511-9797-4925-bbdb-6d20d549b23f" width="5%"/>
   <img src="https://github.com/user-attachments/assets/26b540c8-125d-43e5-bb70-2a5e63d159c2" width="5%"/>
 </div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sannafis)](https://github.com/anuraghazra/github-readme-stats)
